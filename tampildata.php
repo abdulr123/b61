@@ -1,5 +1,6 @@
 <?php
 // buat koneksi dengan database mysql
+// Model
 $dbhost = 'localhost';
 $dbuser = 'root';
 $dbpass = '';
