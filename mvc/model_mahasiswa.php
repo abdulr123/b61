@@ -23,3 +23,11 @@ function getTableMahasiswa()
 
     return $hasil;
 }
+
+function addData()
+{
+}
+
+function deletedData()
+{
+}
