@@ -13,7 +13,7 @@
       padding: 10px 50px 50px;
       background-color: white;
       margin: 20px auto;
-      box-shadow: 1px 0px 10px, -1px 0px 10px ;
+      border:1px black solid;
     }
     h1 {
       text-align: center;
